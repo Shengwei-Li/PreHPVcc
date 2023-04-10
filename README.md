@@ -176,6 +176,9 @@ head(output_data)
 #> 6 Sample6          1
 ```
 
-### Contact
+### 5.Contact
 
 E-mail any questions to Shengwei Li <lishengwei98@163.com>
+
+### 6.Citation
+Li SW, Han LF, He Y, Wang XS. Immunological classification of hepatitis B virus-positive hepatocellular carcinoma by transcriptome analysis. World J Hepatol. 2022;14(12):1997-2011. doi:10.4254/wjh.v14.i12.1997
