@@ -181,4 +181,6 @@ head(output_data)
 E-mail any questions to Shengwei Li <lishengwei98@163.com>
 
 ### 6.Citation
-Li SW, Han LF, He Y, Wang XS. Immunological classification of hepatitis B virus-positive hepatocellular carcinoma by transcriptome analysis. World J Hepatol. 2022;14(12):1997-2011. doi:10.4254/wjh.v14.i12.1997
+Zhu X, Li S, Luo J, et al. Subtyping of Human Papillomavirus-Positive Cervical Cancers Based on the Expression Profiles of 50 Genes. Front Immunol. 2022;13:801639. Published 2022 Jan 21. doi:10.3389/fimmu.2022.801639
+        
+        
